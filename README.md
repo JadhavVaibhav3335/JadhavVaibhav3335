@@ -22,7 +22,7 @@
 ## Stats 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JadhavVaibhav3335&theme=dark&hide_border=true&border_radius=3.2&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 <a href="https://github.com/Abhilokhande/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhilokhande&show_icons=true&theme=transparent" alt="Anurag's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=JadhavVaibhav3335&show_icons=true&theme=transparent" alt="Vaibhav's GitHub stats">
 </a>
 
 ## Connect with me 
