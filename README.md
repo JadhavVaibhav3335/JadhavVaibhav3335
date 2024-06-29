@@ -27,31 +27,25 @@
 
 ## Connect with me 
 <div align="center">
-<a href="https://www.linkedin.com/in/abhijeet-lokhande-18a468270/" target="_blank">
+<a href="https://www.linkedin.com/in/vaibhav-jadhav-41b99a24a/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://x.com/AbhiLok94828777" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
 
-<a href="https://github.com/Abhilokhande" target="_blank">
+
+<a href="https://github.com/JadhavVaibhav" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-   <a href="mailto:lokhande47342gmail.com" target="_blank">
+   <a href="mailto:vaibhavjadhav5416@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/abhilokhande_092" target="_blank">
+<a href="https://www.instagram.com/vaibhav_jadhav_08" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://hashnode.com/@Abhi92" target="_blank">
+<a href="https://hashnode.com/@JadhavVaibhav" target="_blank">
   <img src="https://img.shields.io/badge/hashnode-%23323330.svg?&style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" style="margin-bottom: 5px;" />
 </a>
-<a href="https://leetcode.com/u/Abhijeet2580" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.hackerrank.com/profile/Abhijeetlokhand2" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-%2367A4AC.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" style="margin-bottom: 5px;" />
-</a>
+
+
 
 
 
@@ -107,16 +101,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
 </p><a href="https://github.com/Abhilokhande/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilokhande&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadhavVaibhav3335&layout=compact" alt="Top Languages">
 </a>
 
-## Blog links
-
- 🚀 [Getting Started with React: Installation Process and Basics](https://abhijeetlokhande.hashnode.dev/getting-started-with-react-installation-process-and-basics)<br>
- 🚀 [A Deep Dive into Computer Network Topologies](https://abhijeetlokhande.hashnode.dev/a-deep-dive-into-computer-network-topologies)<br>
- 🚀 [What is an IP Address ?](https://abhijeetlokhande.hashnode.dev/what-is-an-ip-address)<br>
-🚀 [Computer Networks Navigating the Digital Highway: Demystifying Computer Networks](https://abhijeetlokhande.hashnode.dev/computer-networks)<br>
- 🚀 [All about Devin ,an first AI software engineer in world..](https://abhijeetlokhande.hashnode.dev/what-is-devin)<br>
 
 
    
