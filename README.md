@@ -5,7 +5,7 @@
 ## About  👤
 🤔 Are humans in a simulation?
 
-- 🎓 Currently pursuing my Masters at Fergusson College Pune.
+- 🎓 Currently pursuing my Masters at Abasaheb Garware College College Pune.
 - ✈️ Love to visit forts and enjoy traveling.
 - 💻 I use daily: *.React,.js , node.js
 - ❓ Ask me about anything related to UI Design, Java programming,
